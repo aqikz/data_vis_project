@@ -1,0 +1,15 @@
+location,target,forecast_date,target_end_date,value
+36,1 wk ahead inc case,2020-08-23,2020-08-29,4676
+36,1 wk ahead inc case,2020-08-30,2020-09-05,4334
+36,1 wk ahead inc case,2020-09-06,2020-09-12,3364
+36,1 wk ahead inc death,2020-09-06,2020-09-12,36
+36,1 wk ahead inc case,2020-09-13,2020-09-19,2755
+36,1 wk ahead inc death,2020-09-13,2020-09-19,30
+36,1 wk ahead inc case,2020-09-20,2020-09-26,3496
+36,1 wk ahead inc death,2020-09-20,2020-09-26,43
+36,1 wk ahead inc case,2020-09-27,2020-10-03,3507
+36,1 wk ahead inc death,2020-09-27,2020-10-03,32
+36,1 wk ahead inc case,2020-10-04,2020-10-10,4989
+36,1 wk ahead inc death,2020-10-04,2020-10-10,45
+36,1 wk ahead inc case,2020-10-11,2020-10-17,5697
+36,1 wk ahead inc death,2020-10-11,2020-10-17,52

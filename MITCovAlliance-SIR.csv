@@ -1,0 +1,25 @@
+location,target,forecast_date,target_end_date,value
+36,1 wk ahead cum death,2020-07-05,2020-07-11,27179.61
+36,1 wk ahead inc death,2020-07-05,2020-07-11,71.495
+36,1 wk ahead inc death,2020-07-12,2020-07-18,62.459
+36,1 wk ahead cum death,2020-07-12,2020-07-18,27240.049
+36,1 wk ahead inc death,2020-07-19,2020-07-25,102.861
+36,1 wk ahead cum death,2020-07-19,2020-07-25,27983.648
+36,1 wk ahead inc death,2020-07-26,2020-08-01,102.051
+36,1 wk ahead cum death,2020-07-26,2020-08-01,28152.43
+36,1 wk ahead inc death,2020-08-03,2020-08-08,88.16
+36,1 wk ahead cum death,2020-08-03,2020-08-08,28278.172
+36,1 wk ahead inc death,2020-08-17,2020-08-22,58.764
+36,1 wk ahead cum death,2020-08-17,2020-08-22,28418.059
+36,1 wk ahead inc death,2020-09-06,2020-09-12,181.583
+36,1 wk ahead cum death,2020-09-06,2020-09-12,33168.583
+36,1 wk ahead inc death,2020-09-13,2020-09-19,200.312
+36,1 wk ahead cum death,2020-09-13,2020-09-19,33223.312
+36,1 wk ahead inc death,2020-09-21,2020-09-26,226.629
+36,1 wk ahead cum death,2020-09-21,2020-09-26,33283.098
+36,1 wk ahead inc death,2020-09-28,2020-10-03,254.405
+36,1 wk ahead cum death,2020-09-28,2020-10-03,33350.415
+36,1 wk ahead cum death,2020-06-18,2020-06-27,30782.877
+36,1 wk ahead inc death,2020-06-18,2020-06-27,240.553
+36,1 wk ahead cum death,2020-06-28,2020-07-04,30911.41
+36,1 wk ahead inc death,2020-06-28,2020-07-04,108.648

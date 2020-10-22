@@ -1,0 +1,12 @@
+location,target,forecast_date,target_end_date,value
+36,1 wk ahead cum death,2020-09-06,2020-09-12,33063.6372788548
+36,1 wk ahead cum death,2020-09-13,2020-09-19,33105
+36,1 wk ahead inc death,2020-09-13,2020-09-19,73
+36,1 wk ahead cum death,2020-09-20,2020-09-26,33184
+36,1 wk ahead inc death,2020-09-20,2020-09-26,95
+36,1 wk ahead cum death,2020-09-27,2020-10-03,33216
+36,1 wk ahead inc death,2020-09-27,2020-10-03,83
+36,1 wk ahead cum death,2020-10-04,2020-10-10,33291
+36,1 wk ahead inc death,2020-10-04,2020-10-10,88
+36,1 wk ahead cum death,2020-10-11,2020-10-17,33385
+36,1 wk ahead inc death,2020-10-11,2020-10-17,80

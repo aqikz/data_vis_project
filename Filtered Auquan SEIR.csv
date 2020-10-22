@@ -1,0 +1,109 @@
+source,SN,target,forecast_date,target_end_date,value
+Auquan SEIR,1,1 wk ahead cum death,18-05-2020,23-05-2020,30957
+Auquan SEIR,2,2 wk ahead cum death,18-05-2020,30-05-2020,33004
+Auquan SEIR,3,3 wk ahead cum death,18-05-2020,06-06-2020,34266
+Auquan SEIR,4,4 wk ahead cum death,18-05-2020,13-06-2020,35041
+Auquan SEIR,5,1 wk ahead cum death,24-05-2020,30-05-2020,33004
+Auquan SEIR,6,2 wk ahead cum death,24-05-2020,06-06-2020,34266
+Auquan SEIR,7,3 wk ahead cum death,24-05-2020,13-06-2020,35041
+Auquan SEIR,8,4 wk ahead cum death,24-05-2020,20-06-2020,35515
+Auquan SEIR,9,1 wk ahead cum death,31-05-2020,06-06-2020,33758
+Auquan SEIR,10,2 wk ahead cum death,31-05-2020,13-06-2020,34968
+Auquan SEIR,11,3 wk ahead cum death,31-05-2020,20-06-2020,35708
+Auquan SEIR,12,4 wk ahead cum death,31-05-2020,27-06-2020,36160
+Auquan SEIR,13,1 wk ahead cum death,07-06-2020,13-06-2020,33104
+Auquan SEIR,14,2 wk ahead cum death,07-06-2020,20-06-2020,35123
+Auquan SEIR,15,3 wk ahead cum death,07-06-2020,27-06-2020,36354
+Auquan SEIR,16,4 wk ahead cum death,07-06-2020,04-07-2020,37104
+Auquan SEIR,17,1 wk ahead cum death,15-06-2020,20-06-2020,33662
+Auquan SEIR,18,2 wk ahead cum death,15-06-2020,27-06-2020,35773
+Auquan SEIR,19,3 wk ahead cum death,15-06-2020,04-07-2020,37067
+Auquan SEIR,20,4 wk ahead cum death,15-06-2020,11-07-2020,37858
+Auquan SEIR,21,1 wk ahead cum death,21-06-2020,27-06-2020,31837
+Auquan SEIR,22,2 wk ahead cum death,21-06-2020,04-07-2020,32360
+Auquan SEIR,23,3 wk ahead cum death,21-06-2020,11-07-2020,32678
+Auquan SEIR,24,4 wk ahead cum death,21-06-2020,18-07-2020,32870
+Auquan SEIR,25,1 wk ahead cum death,28-06-2020,04-07-2020,32117
+Auquan SEIR,26,2 wk ahead cum death,28-06-2020,11-07-2020,32647
+Auquan SEIR,27,3 wk ahead cum death,28-06-2020,18-07-2020,32968
+Auquan SEIR,28,4 wk ahead cum death,28-06-2020,25-07-2020,33163
+Auquan SEIR,29,1 wk ahead cum death,05-07-2020,11-07-2020,32934
+Auquan SEIR,30,2 wk ahead cum death,05-07-2020,18-07-2020,33471
+Auquan SEIR,31,3 wk ahead cum death,05-07-2020,25-07-2020,33796
+Auquan SEIR,32,4 wk ahead cum death,05-07-2020,01-08-2020,33994
+Auquan SEIR,33,5 wk ahead cum death,05-07-2020,08-08-2020,34115
+Auquan SEIR,34,6 wk ahead cum death,05-07-2020,15-08-2020,34188
+Auquan SEIR,35,7 wk ahead cum death,05-07-2020,22-08-2020,34232
+Auquan SEIR,36,8 wk ahead cum death,05-07-2020,29-08-2020,34259
+Auquan SEIR,37,1 wk ahead cum death,05-07-2020,29-08-2020,33475
+Auquan SEIR,38,2 wk ahead cum death,05-07-2020,29-08-2020,34038
+Auquan SEIR,39,3 wk ahead cum death,05-07-2020,29-08-2020,34379
+Auquan SEIR,40,4 wk ahead cum death,05-07-2020,29-08-2020,34585
+Auquan SEIR,41,1 wk ahead cum death,09-08-2020,15-08-2020,33548
+Auquan SEIR,42,2 wk ahead cum death,09-08-2020,22-08-2020,34117
+Auquan SEIR,43,3 wk ahead cum death,09-08-2020,29-08-2020,34462
+Auquan SEIR,44,4 wk ahead cum death,09-08-2020,05-09-2020,34672
+Auquan SEIR,45,1 wk ahead cum death,16-08-2020,22-08-2020,33623
+Auquan SEIR,46,2 wk ahead cum death,16-08-2020,29-08-2020,34199
+Auquan SEIR,47,3 wk ahead cum death,16-08-2020,05-09-2020,34548
+Auquan SEIR,48,4 wk ahead cum death,16-08-2020,12-09-2020,34760
+Auquan SEIR,49,5 wk ahead cum death,16-08-2020,19-09-2020,34889
+Auquan SEIR,50,6 wk ahead cum death,16-08-2020,26-09-2020,34967
+Auquan SEIR,51,7 wk ahead cum death,16-08-2020,03-10-2020,35014
+Auquan SEIR,52,8 wk ahead cum death,16-08-2020,10-10-2020,35042
+Auquan SEIR,53,1 wk ahead cum death,24-08-2020,29-08-2020,33674
+Auquan SEIR,54,2 wk ahead cum death,24-08-2020,05-09-2020,34256
+Auquan SEIR,55,3 wk ahead cum death,24-08-2020,12-09-2020,34608
+Auquan SEIR,56,4 wk ahead cum death,24-08-2020,19-09-2020,34822
+Auquan SEIR,57,5 wk ahead cum death,24-08-2020,26-09-2020,34951
+Auquan SEIR,58,6 wk ahead cum death,24-08-2020,03-10-2020,35029
+Auquan SEIR,59,7 wk ahead cum death,24-08-2020,10-10-2020,35077
+Auquan SEIR,60,8 wk ahead cum death,24-08-2020,17-10-2020,35106
+Bpagano-RtDriven,61,1 wk ahead inc death,04-10-2020,10-10-2020,92.053
+Bpagano-RtDriven,62,2 wk ahead inc death,04-10-2020,17-10-2020,117.394
+Bpagano-RtDriven,63,3 wk ahead inc death,04-10-2020,24-10-2020,137.665
+Bpagano-RtDriven,64,4 wk ahead inc death,04-10-2020,31-10-2020,149.636
+Bpagano-RtDriven,65,5 wk ahead inc death,04-10-2020,07-11-2020,147.763
+Bpagano-RtDriven,66,6 wk ahead inc death,04-10-2020,14-11-2020,135.398
+Bpagano-RtDriven,67,7 wk ahead inc death,04-10-2020,21-11-2020,119.419
+Bpagano-RtDriven,68,8 wk ahead inc death,04-10-2020,28-11-2020,103.559
+Bpagano-RtDriven,69,9 wk ahead inc death,04-10-2020,05-12-2020,89.605
+Bpagano-RtDriven,70,10 wk ahead inc death,04-10-2020,12-12-2020,78.407
+Bpagano-RtDriven,71,11 wk ahead inc death,04-10-2020,19-12-2020,70.231
+Bpagano-RtDriven,72,12 wk ahead inc death,04-10-2020,26-12-2020,64.031
+Bpagano-RtDriven,73,1 wk ahead cum death,04-10-2020,10-10-2020,33548.033
+Bpagano-RtDriven,74,2 wk ahead cum death,04-10-2020,17-10-2020,33665.426
+Bpagano-RtDriven,75,3 wk ahead cum death,04-10-2020,24-10-2020,33803.091
+Bpagano-RtDriven,76,4 wk ahead cum death,04-10-2020,31-10-2020,33952.727
+Bpagano-RtDriven,77,5 wk ahead cum death,04-10-2020,07-11-2020,34100.49
+Bpagano-RtDriven,78,6 wk ahead cum death,04-10-2020,14-11-2020,34235.888
+Bpagano-RtDriven,79,7 wk ahead cum death,04-10-2020,21-11-2020,34355.307
+Bpagano-RtDriven,80,8 wk ahead cum death,04-10-2020,28-11-2020,34458.866
+Bpagano-RtDriven,81,9 wk ahead cum death,04-10-2020,05-12-2020,34548.471
+Bpagano-RtDriven,82,10 wk ahead cum death,04-10-2020,12-12-2020,34626.875
+Bpagano-RtDriven,83,11 wk ahead cum death,04-10-2020,19-12-2020,34697.104
+Bpagano-RtDriven,84,12 wk ahead cum death,04-10-2020,26-12-2020,34761.135
+Bpagano-RtDriven,85,1 wk ahead inc death,11-10-2020,17-10-2020,121.623
+Bpagano-RtDriven,86,2 wk ahead inc death,11-10-2020,24-10-2020,149.381
+Bpagano-RtDriven,87,3 wk ahead inc death,11-10-2020,31-10-2020,169.557
+Bpagano-RtDriven,88,4 wk ahead inc death,11-10-2020,07-11-2020,176.365
+Bpagano-RtDriven,89,5 wk ahead inc death,11-10-2020,14-11-2020,166.395
+Bpagano-RtDriven,90,6 wk ahead inc death,11-10-2020,21-11-2020,147.652
+Bpagano-RtDriven,91,7 wk ahead inc death,11-10-2020,28-11-2020,127.615
+Bpagano-RtDriven,92,8 wk ahead inc death,11-10-2020,05-12-2020,109.537
+Bpagano-RtDriven,93,9 wk ahead inc death,11-10-2020,12-12-2020,94.576
+Bpagano-RtDriven,94,10 wk ahead inc death,11-10-2020,19-12-2020,83.126
+Bpagano-RtDriven,95,11 wk ahead inc death,11-10-2020,26-12-2020,74.916
+Bpagano-RtDriven,96,12 wk ahead inc death,11-10-2020,02-01-2021,68.559
+Bpagano-RtDriven,97,1 wk ahead cum death,11-10-2020,17-10-2020,33641.766
+Bpagano-RtDriven,98,2 wk ahead cum death,11-10-2020,24-10-2020,33791.147
+Bpagano-RtDriven,99,3 wk ahead cum death,11-10-2020,31-10-2020,33960.704
+Bpagano-RtDriven,100,4 wk ahead cum death,11-10-2020,07-11-2020,34137.069
+Bpagano-RtDriven,101,5 wk ahead cum death,11-10-2020,14-11-2020,34303.464
+Bpagano-RtDriven,102,6 wk ahead cum death,11-10-2020,21-11-2020,34451.116
+Bpagano-RtDriven,103,7 wk ahead cum death,11-10-2020,28-11-2020,34578.731
+Bpagano-RtDriven,104,8 wk ahead cum death,11-10-2020,05-12-2020,34688.268
+Bpagano-RtDriven,105,9 wk ahead cum death,11-10-2020,12-12-2020,34782.844
+Bpagano-RtDriven,106,10 wk ahead cum death,11-10-2020,19-12-2020,34865.97
+Bpagano-RtDriven,107,11 wk ahead cum death,11-10-2020,26-12-2020,34940.886
+Bpagano-RtDriven,108,12 wk ahead cum death,11-10-2020,02-01-2021,35009.445
